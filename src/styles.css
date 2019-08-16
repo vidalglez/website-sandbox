@@ -70,12 +70,15 @@ header h3 {
   float: left;
   padding-right: 5px;
   padding-left: 5px;
-  border: 1px solid black;
+  border: 1px solid #275c7a;;
 }
 
 .nav-bar a {
   text-decoration: none;
   color: #275c7a;
+}
+.nav-bar a:hover {
+  background-color: #abdaf5;
 }
 
 img {
